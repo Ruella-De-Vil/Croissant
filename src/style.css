@@ -1,7 +1,13 @@
 
-/*body {
+body {
     background-color: bisque;
     padding: 2em;
     text-align: center;
-}*/
+}
+
+img {
+    border-radius: 2em;
+    width: 50%;
+    height: auto;
+}
  
